@@ -10,6 +10,27 @@
 
 # pokeldn
 
+## TeraLoop extension (this fork)
+
+This fork adds **TeraLoop — Past events** to Scarlet & Violet. Download the
+Windows portable app from [Releases](https://github.com/xCyrusBR/pokeldn-TeraLoop-/releases).
+Extract the entire ZIP before launching `pokeldn.exe`; do not move the executable
+away from `_internal`. Bring your own Switch keys and ESP32-S3.
+
+The extension, historical event catalogue, build instructions and known limits
+are in [teraloop/README.md](teraloop/README.md). It covers 148 numbered events,
+152 delivery packages and 161 chronological scheduling choices, with editable
+suggested host Pokémon. The console can choose its own Pokémon. The host waits
+for Ready, then leaves through host migration so the console continues the raid.
+
+Upstream code and branding are preserved. The released TeraLoop executable uses
+the exact upstream checkpoint `92a5bd72445bed3cf260d9f7e6ff9149afe1adf2`; this
+fork's newer upstream root is not silently substituted into that tested build.
+This is a community preview, not an official Decryptu release or a claim that
+every event/build has been tested on a physical console. No Nintendo keys,
+ROMs, console saves or private network captures are distributed.
+
+
 An ESP32 board on USB serial is the radio: pokeldn hosts or joins Nintendo Switch local wireless
 (LDN) sessions with retail Pokémon games through it, from any computer that runs Python. Nothing is
 installed on the Switch or Switch 2. Seven games are supported:

@@ -18,6 +18,11 @@
 # The desktop app.
 !/gui/
 !/services/
+!/teraloop/
+/teraloop/lab/*
+!/teraloop/lab/host-mew.pk9
+/teraloop/artifacts/
+/teraloop/.venv/
 /firmware/**/build/
 /firmware/**/sdkconfig
 /firmware/**/sdkconfig.old
@@ -41,6 +46,7 @@
 *.pb8
 *.pa8
 *.pk9
+!/teraloop/lab/host-mew.pk9
 *.pa9
 *.wc8
 

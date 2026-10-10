@@ -1,0 +1,4 @@
+# Hash-verified event files must keep their exact bytes on every platform.
+teraloop/distribution/** -text
+teraloop/source-materials/** -text
+teraloop/lab/host-mew.pk9 -text

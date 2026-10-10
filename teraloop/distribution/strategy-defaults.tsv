@@ -1,0 +1,65 @@
+boss	stars	boss_tera	message_id	pokemon	nature	ability	tera	item	evs	moves	role
+Dialga	5	Dragon	1183120962787487764	Florges	Modest		Fairy	Shell Bell	252 HP / 252 SpA / 6 SpD	Calm Mind;Draining Kiss;Light Screen;Moonblast	solo
+Palkia	5	Dragon	1183121031309832212	Florges	Modest		Fairy	Covert Cloak	252 HP / 252 SpA / 6 SpD	Calm Mind;Draining Kiss;Light Screen;Moonblast	solo
+Iron Leaves	5	Psychic	1187254423236399184	Gholdengo	Modest	Good as Gold	Ghost	Life Orb	252 HP / 252 SpA / 6 Def	Metal Sound;Nasty Plot;Recover;Shadow Ball	solo
+Walking Wake	5	Water	1187255981663592608	Azumarill	Adamant	Huge Power	Fairy	Clear Amulet	252 HP / 252 Atk / 6 Def	Aqua Ring;Belly Drum;Play Rough	solo
+Gimmighoul	5	Random	1126853869033500673	Ursaring	Adamant	Guts	Ground	Toxic Orb	252 HP / 252 Atk / 4 SpD	Giga Impact;Crunch;Belly Drum	solo
+Mismagius	5	Ghost	1169792755095048342	Zangoose	Adamant	Toxic Boost		Toxic Orb	252 HP / 252 Atk	Belly Drum;Power Trip	solo
+Rayquaza	5	Dragon	1369166932028428350	Sylveon	Modest	Pixilate	Fairy	Covert Cloak	252 HP / 252 SpA / 4 Def	Calm Mind;Draining Kiss;Hyper Beam	solo
+Wo-Chien	5	Grass	1401101057287000125	Skeledirge	Modest	Unaware	Fire	Shell Bell	252 HP / 252 SpA / 6 SpD	Torch Song;Slack Off;Flamethrower	solo
+Chien-Pao	5	Ice	1406731803779403817	Iron Hands	Adamant		Fighting	Metronome	252 HP / 252 Atk / 6 Def	Drain Punch;Focus Energy	solo
+Ting-Lu	5	Ground	1411994628646764585	Serperior	Modest	Contrary	Grass	Shell Bell	252 HP / 252 SpA / 6 Def	Leaf Storm;Giga Drain	solo
+Chi-Yu	5	Fire	1422217789393080410	Azumarill	Adamant	Huge Power	Water	Shell Bell	252 HP / 252 Atk	Rain Dance;Liquidation	solo
+Baxcalibur	7	Ice	1389047024107782234	Orthworm	Impish	Earth Eater	Fighting	Shell Bell	252 HP / 252 Def	Body Press;Iron Defense;Mud-Slap;Protect	solo
+Blastoise	7	Steel	1217285969309339739	Gallade	Adamant	Sharpness	Fighting	Shell Bell	252 HP / 252 Atk / 6 SpD	Mystical Fire;Sacred Sword;Sunny Day;Swords Dance	solo
+Blaziken	7	Flying	1195825186776285265	Bellibolt	Modest	Electromorphosis	Electric	Metronome	252 HP / 252 SpA / 6 Def	Acid Spray;Chilling Water;Reflect;Parabolic Charge	solo
+Charizard	7	Dragon	1110531427012984853	Flutter Mane	Modest	Protosynthesis	Fairy	Covert Cloak	252 HP / 252 SpA / 6 Def	Calm Mind;Draining Kiss;Fake Tears;Moonblast	solo
+Chesnaught	7	Rock	1110515477966508132	Appletun	Modest		Grass	Shell Bell	4 HP / 252 Def / 252 SpA	Apple Acid;Giga Drain;Growth;Grassy Terrain	solo
+Cinderace	7	Fighting	1110536780974931998	Slowbro	Modest		Psychic	Shell Bell	252 HP / 252 SpA / 6 SpD	Iron Defense;Nasty Plot;Slack Off;Stored Power	solo
+Decidueye	7	Flying	1110527445108527145	Miraidon	Modest	Hadron Engine	Electric	Wise Glasses	252 HP / 252 SpA / 6 Def	Charge;Electro Drift;Metal Sound;Parabolic Charge	solo
+Delphox	7	Fairy	1130470015523627050	Armarouge	Modest	Flash Fire	Psychic	Shell Bell	252 HP / 252 SpA / 6 SpD	Acid Spray;Calm Mind;Clear Smog;Stored Power	solo
+Dondozo	7	Water	1369150041893240852	Miraidon	Modest	Hadron Engine	Electric	Metronome	252 HP / 252 SpA	Metal Sound;Parabolic Charge	solo
+Dragonite	7	Normal	1369153120009064478	Orthworm	Impish	Earth Eater	Fighting	Shell Bell	252 HP / 252 Def	Body Press;Iron Defense;Protect	solo
+Dragapult	7	Dragon	1449277095908737126	Sylveon	Modest	Pixilate	Fairy	Metronome	252 HP / 252 SpA / 4 Def	Skill Swap;Calm Mind;Draining Kiss;Mud-Slap	solo
+Eevee	7	Normal	1176150590015946883	Annihilape	Adamant	Defiant	Fighting	Metronome	252 HP / 252 Atk / 6 SpD	Bulk Up;Close Combat;Drain Punch	solo
+Emboar	7	Electric	1259777085963243663	Annihilape	Adamant	Defiant	Ghost	Shell Bell	252 Atk / 252 Def	Rage Fist;Bulk Up;Focus Energy	solo
+Empoleon	7	Ice	1203051757656346635	Ceruledge	Adamant		Steel	Shell Bell	252 HP / 252 Atk / 6 SpD	Bitter Blade;Clear Smog;Sunny Day;Swords Dance	solo
+Feraligatr	7	Dark	1369162597777145897	Scizor	Adamant	Swarm	Bug	Shell Bell	252 Atk / 252 Def	Lunge;Swords Dance;Iron Defense;Focus Energy	solo
+Garchomp	7	Ground	1378945766982291466	Sinistcha	Modest	Heatproof	Grass	Metronome	252 SpA / 252 Def	Iron Defense;Strength Sap;Nasty Plot;Giga Drain	solo
+Goodra	7	Water	1441526984747253962	Bellibolt	Modest	Electromorphosis	Electric	Magnet	252 HP / 252 SpA / 6 Def	Acid Spray;Parabolic Charge	solo
+Greninja	7	Poison	1110533980320698490	Slowbro	Modest		Psychic	Shell Bell	252 HP / 252 SpA / 6 SpD	Iron Defense;Nasty Plot;Slack Off;Stored Power	solo
+Decidueye-Hisui	7	Grass	1167310885728043008	Corviknight	Impish	Mirror Armor	Fighting	Shell Bell	252 HP / 252 Def / 6 SpD	Body Press;Iron Defense;Roost;Taunt	solo
+Samurott-Hisui	7	Water	1178389835749273763	Appletun	Modest		Grass	Shell Bell	252 HP / 252 SpA / 6 Def	Apple Acid;Giga Drain;Iron Defense;Recover	solo
+Typhlosion-Hisui	7	Fire	1170736641745354762	Dachsbun	Impish	Well-Baked Body	Fighting	Metronome	252 HP / 252 Def / 6 SpD	Body Press;Protect;Tail Whip	solo
+Hydreigon	7	Poison	1436714563541405820	Blissey	Modest		Psychic	Covert Cloak	252 SpA / 252 SpD / 6 HP	Calm Mind;Stored Power;Soft-Boiled	solo
+Incineroar	7	Dark	1369154970250772571	Kommo-o	Adamant	Soundproof	Fighting	Scope Lens	252 Atk / 252 Def / 6 HP	Taunt;Iron Defense;Belly Drum;Drain Punch	solo
+Infernape	7	Rock	1369160714735976499	Kommo-o	Adamant	Bulletproof	Fighting	Metronome	252 HP / 252 Atk	Breaking Swipe;Swords Dance;Drain Punch	solo
+Inteleon	7	Ice	1107862013029400577	Flutter Mane	Modest	Protosynthesis	Fairy	Clear Amulet	252 HP / 252 SpA / 6 Def	Calm Mind;Draining Kiss;Moonblast;Sunny Day	solo
+Iron Bundle	7	Ice	1188355742604996719	Flutter Mane	Modest	Protosynthesis	Steel	Shell Bell	252 SpA / 252 SpD / 6 HP	Calm Mind;Draining Kiss;Mystical Fire;Sunny Day	solo
+Iron Valiant	7	Fairy	1436685527666524221	Serperior	Modest	Contrary	Grass	Metronome	252 HP / 252 SpA / 4 Def	Leaf Storm;Giga Drain	solo
+Kommo-o	7	Fighting	1396167102141829122	Annihilape	Adamant	Defiant	Ghost	Shell Bell	252 HP / 252 Atk / 6 Def	Rage Fist;Bulk Up;Focus Energy	solo
+Meganium	7	Psychic	1232316850797412402	Annihilape	Adamant	Defiant	Ghost	Shell Bell	252 Atk / 252 Def / 6 HP	Bulk Up;Rage Fist;Screech;Taunt	solo
+Meowscarada	7	Grass	1369173511150501949	Skeledirge	Modest	Unaware	Fire	Shell Bell	252 SpA / 252 Def / 4 HP	Torch Song;Slack Off	solo
+Metagross	7	Steel	1373954008422682654	Skeledirge	Bold	Unaware	Fire	Shell Bell	252 SpA / 252 Def	Torch Song;Protect;Flamethrower;Slack Off	solo
+Mewtwo	7	Psychic	1148300273819848746	Mew	Bold	Synchronize		Light Clay	252 HP / 136 Def / 120 SpD	Life Dew;Light Screen;Struggle Bug;Pollen Puff	support
+Pikachu	7	Water	1369143569021014026	Lurantis	Modest	Contrary	Grass	Covert Cloak	252 HP / 252 SpA / 6 SpD	Leaf Storm;Giga Drain;Sunny Day;Synthesis	solo
+Porygon2	7	Normal	1380514866485530705	Annihilape	Adamant	Defiant	Fighting	Metronome	252 HP / 252 Atk / 6 SpD	Focus Energy;Drain Punch;Bulk Up;Screech	solo
+Primarina	7	Fairy	1259771144592949259	Vaporeon	Modest	Water Absorb	Steel	Shell Bell	6 HP / 252 SpA / 252 SpD	Tera Blast;Mud-Slap;Calm Mind;Fake Tears	solo
+Quaquaval	7	Water	1369181784981377145	Eelektross	Modest	Levitate	Electric	Shell Bell	252 SpA / 252 Def / 6 HP	Coil;Lunge;Gastro Acid;Charge Beam	solo
+Rillaboom	7	Normal	1137816494068203601	Corviknight	Impish	Mirror Armor	Fighting	Shell Bell	252 HP / 252 Def / 6 Atk	Body Press;Iron Defense;Screech	solo
+Roaring Moon	7	Dragon	1436686684514291772	Chien-Pao	Adamant	Sword of Ruin	Ice	Shell Bell	252 Atk / 252 Def / 4 HP	Ice Spinner;Recover;Swords Dance;Snowscape	solo
+Salamence	7	Flying	1369187063215423560	Eelektross	Calm	Levitate	Electric	Shell Bell	252 SpA / 252 SpD / 6 HP	Thunderbolt;Acid Spray;Gastro Acid;Eerie Impulse	solo
+Samurott	7	Bug	1495119559810744361	Annihilape	Adamant	Defiant	Ghost	Shell Bell	252 HP / 252 Atk / 6 Def	Bulk Up;Rage Fist;Screech	solo
+Sceptile	7	Dragon	1259780040229523508	Annihilape	Adamant	Defiant	Ghost	Shell Bell	252 Atk / 252 Def	Taunt;Rage Fist;Bulk Up;Focus Energy	solo
+Serperior	7	Grass	1369157674847174699	Delphox	Modest	Blaze	Fire	Shell Bell	252 HP / 252 SpA	Skill Swap;Nasty Plot;Mystical Fire;Sunny Day	solo
+Skeledirge	7	Fire	1369177052317749262	Kyogre	Modest	Drizzle	Water	Shell Bell	252 HP / 252 SpA / 6 Def	Surf;Rain Dance;Water Spout	solo
+Swampert	7	Poison	1259773943972368424	Gastrodon	Modest	Storm Drain	Ground	Metronome	252 HP / 252 SpA	Mud-Slap;Earth Power;Stockpile;Recover	solo
+Torterra	7	Ground	1369164778068508692	Ogerpon	Adamant	Defiant	Grass	Metronome	252 HP / 252 Atk	Horn Leech;Swords Dance;Charm	solo
+Typhlosion	7	Ghost	1107860216378298428	Annihilape	Adamant	Defiant	Ghost	Shell Bell	252 HP / 252 Atk / 6 Def	Rage Fist;Screech	solo
+Tyranitar	7	Ghost	1369185608085405830	Krookodile	Impish	Anger Point	Dark	Shell Bell	252 HP / 252 Def / 6 Atk	Power Trip;Taunt;Breaking Swipe;Bulk Up	solo
+Venusaur	7	Ground	1214301763121971280	Beartic	Careful	Snow Cloak	Ice	Shell Bell	252 SpD / 252 Atk / 6 HP	Avalanche;Snarl;Snowscape;Swords Dance	solo
+Magikarp	7	Dragon	1528097581584879818	Sylveon	Modest		Fairy	Metronome	252 SpA	Draining Kiss	solo
+Glimmora	7	Grass	1546196297965371392	Dragalge	Modest	Adaptability	Poison	Shell Bell	252 SpA / 252 SpD	Acid Spray;Sludge Wave	solo
+Annihilape	7	Ghost	1546198479078952960	Farigiraf	Bold		Stellar	Shell Bell	252 SpA / 252 Def / 4 HP	Stored Power;Skill Swap;Nasty Plot;Curse	solo
+Farigiraf	7	Fairy	1546200220247789568	Goodra-Hisui	Modest	Shell Armor	Steel	Shell Bell	252 SpA / 252 SpD / 4 HP	Skitter Smack;Acid Spray;Flash Cannon	solo
+Kingambit	7	Dark	1546201742918688780	Kommo-o	Adamant		Fighting	Metronome	252 Atk / 252 Def / 4 HP	Belly Drum;Drain Punch;Swords Dance	solo
